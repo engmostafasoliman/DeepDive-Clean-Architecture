@@ -17,8 +17,6 @@ void main() async {
 
 }
 
-
-
 class Bookly extends StatelessWidget {
   const Bookly({Key? key}) : super(key: key);
 
